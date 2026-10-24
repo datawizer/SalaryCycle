@@ -1,0 +1,6 @@
+{
+  "name": "SalaryCycle - Payday & Expense Tracker",
+  "description": "Smart salary cycle countdown, daily safe-to-spend allowance, expense and bill manager with cashflow forecast, ads, and premium cloud backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
